@@ -13,4 +13,8 @@ all:
 	echo "Download and execute the outliner ... ok"
 	curl -Lo- https://raw.github.com/supersym/GitHub-Wikifier/master/INSTALL | bash
 
+pub:
+	test -d ".git"
+	git add .
+	git commit
 
