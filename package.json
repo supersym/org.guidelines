@@ -1,0 +1,12 @@
+{
+    "name": "solobit-guides-100"
+  , "version": "1.0.0"
+  , "keywords": [ "solobit", "manuals", "guidelines", "collection" ]
+  , "dependencies": {
+      "doctoc": "latest"
+  }
+
+
+}
+
+

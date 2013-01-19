@@ -1,3 +1,7 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [General programming guidelines](#general-programming-guidelines)
+
 General programming guidelines
 ==============================
 
