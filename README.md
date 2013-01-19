@@ -1,6 +1,16 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [guides.100](#guides100)
+I currently use a fork of the program called
+[GitHub-Wikifier](https://github.com/supersym/GitHub-Wikifier) for a structured
+approach to documentation I host on GitHub. Part of my documentation efforts in
+learning, teaching, reading, writing and archiving software will be manual of
+nature. Other things I'll want to automate with a tool. Further I'll be wanting
+do some literal programming exercises, text and lexical analysis and other
+operations to extract meaningful context on the nature of source codes in the
+collections that I hold. Regardless of the means I use, any files that serves
+as something with a "simple" numeral index system, by naming conventions in the
+file name, for now separation of compounds on "." is used - more elaborate
+schemes may follow - and optionally inside the file content as 'rich' markup of
+code comments.
 
 ###### Organisation
 
@@ -28,7 +38,7 @@ display this with intent of partially automating the knowledge inside these
 (data) text files to be easily used for (literate) lexical/parser programs to
 deduct logic, symbols, proofs and regular expressions etc.
 
-I decided I will probably use parts of it to try and learn some 'Bird'-style
+I decided I will probably use parts of it to try and learn some `Bird-style`
 Haskell.
 
 
